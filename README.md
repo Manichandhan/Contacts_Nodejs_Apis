@@ -18,3 +18,7 @@ User Can Delete a Contact or can get a name with starting letters
 Each User data & Contacts will be saved in separate csv forms
 When User Wants to Delete All Contacts An Otp Will be Sent to verify
 As These were Not Production Ready REST API's, developer can give these Inputs Through Console
+
+## Installation
+Npm install for Dependencies
+v16.15.1 Node.js 
